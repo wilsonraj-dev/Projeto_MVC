@@ -34,5 +34,14 @@ namespace Projeto_MVC.Controllers
             }
             return View(contato);
         }
+    
+        public IActionResult Editar(int id)
+        {
+            var contato = _context.Contatos.Find(id);
+            if (contato == null)
+                return NotFound();
+
+            return View(contato);
+        }
     }
 }
