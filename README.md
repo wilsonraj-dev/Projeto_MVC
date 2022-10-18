@@ -1,4 +1,4 @@
-<h1 align="center"> NLW 6 - Valoriza</h1>
+<h1 align="center"> CRUD .NET | MVC</h1>
 
 ## ✨ Tecnologias
 
@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- .NET|C#
+- .NET | C#
 - JavaScript
 
 ## 💻 Projeto
@@ -20,8 +20,13 @@ Esse é um pequeno CRUD realizado no bootcamp Pottencial disponibilizado pela Di
 - Aplique as migrations
 
 ## 🎆 Segue um exemplo do menu principal
+<p align="center">
+  <img src="img/menuPrincipal.png">
+</p>
 
+## 📧 Contatos
 
----
-Projeto realizado na NLW 6 da Rocketseat, muito obrigado a Dani pelas aulas incríveis, com certeza foi uma semana cheia de novos aprendizados e conhecimentos!!
-[Participe dessa comunidade incrível!](https://discord.gg/gKUVrzrPrU)
+<div>
+  <a href="https://www.linkedin.com/in/wilsonjuniordev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"    target="_blank"></a>
+  <a href="wilson.assis.junior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
