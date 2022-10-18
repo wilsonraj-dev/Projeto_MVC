@@ -57,5 +57,14 @@ namespace Projeto_MVC.Controllers
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
+
+        public IActionResult Detalhes(int id)
+        {
+            var contato = _context.Contatos.Find(id);
+            if(contato == null)
+                return RedirectToAction(nameof(Index));
+
+            return View(contato);
+        }
     }
 }
